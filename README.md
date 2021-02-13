@@ -1,4 +1,4 @@
-# btk_flutter_egitimi
+# ogrenci_takip_sistemi
 
 A new Flutter project.
 
